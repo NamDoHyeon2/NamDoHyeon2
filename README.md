@@ -51,7 +51,8 @@
 
 - 역할: 팀원 / 퍼블리셔 + 백엔드 + DB 연동  
 - 주요 기능: 증상 기반 병원 추천, 의사 매칭, 진료 예약  
-- 기술 스택:  
+- 기술 스택:
+  
   ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
   ![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -66,7 +67,7 @@
 - 역할: 팀원 / 풀스택  
 - 주요 기능: 학교 정보 통합, 이벤트 관리, 스터디룸 예약, QR 출석 등  
 - 기술 스택:
-
+- 
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
   ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -82,7 +83,8 @@
 
 - 역할: 팀장 / 백엔드 API 설계 및 개발 / JWT, Spring Security , Web Flux , GCP 사용
 - 설명: 개발 도중 클라이언트 개발 인원이 개인 사정으로 프로젝트에서 빠지게 되어, 백엔드 개발 경험을 했다는걸 보여드리기 위해 포토폴리오로 작성합니다.
-- 기술 스택:  
+- 기술 스택:
+  
   ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
   ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
   ![Spring WebFlux](https://img.shields.io/badge/Spring%20WebFlux-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -100,7 +102,8 @@
 
 - 역할: 팀원 / 백엔드 API 설계 및 개발 / JWT, Spring Security , AWS 사용 (현재 진행중입니다!)
 - 주요 기능: 사이드 프로젝트 팀원 모집, 팀원 평가등 
-- 기술 스택:  
+- 기술 스택:
+  
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
   ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat&logo=spring&logoColor=white)
   ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
