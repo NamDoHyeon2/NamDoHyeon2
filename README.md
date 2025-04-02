@@ -66,6 +66,7 @@
 - 역할: 팀원 / 풀스택  
 - 주요 기능: 학교 정보 통합, 이벤트 관리, 스터디룸 예약, QR 출석 등  
 - 기술 스택:
+
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
   ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
