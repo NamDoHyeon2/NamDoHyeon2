@@ -1,4 +1,4 @@
-<h1 align="center">👋 안녕하세요! 도현입니다.</h1>
+<h1 align="center">👋 안녕하세요! 노력하는 백엔드 개발자 남도현입니다.</h1>
 <p align="center">백엔드 개발에 관심이 많은 백엔드 개발자입니다! 😄</p>
 
 ---
@@ -38,6 +38,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ---
 
